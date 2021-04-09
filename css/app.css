@@ -83,11 +83,6 @@ html {
 	font-size: 16px;
 }
 
-@font-face {
-	font-family: myFirstFont;
-	src: url("font.woff") format("woff2");
-}
-
 body {
 	color: #ffffff;
 	font-family: 'Josefin Sans', sans-serif;
